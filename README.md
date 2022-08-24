@@ -1,0 +1,2 @@
+# CryptoVerse
+I created an application for displaying concept &amp; algorithms of crypto currencies, including changes in values &amp; cost, advantages, disadvantages and financial future of Cryptocurrency using - JavaScript ● CSS ● HTML ● UI Creation using Ant Design, ● Creating charts using Chart.js ● Fetching data from multiple sources using RapidAPI VISIT- https://cryptoverse-96eee9.netlify.app/
